@@ -11,14 +11,14 @@ Then I used [Binary Nija](https://binary.ninja/) to analyze it. The Free version
 
 I found the functions Encode and Decode...
 
-![Encode](https://github.com/wildstray/meian-hacking/blob/main/images/encode.png)
+![Encode](https://github.com/wildstray/meian-hacking/blob/main/images/encode.jpg)
 
-![Decode](https://github.com/wildstray/meian-hacking/blob/main/images/decode.png)
+![Decode](https://github.com/wildstray/meian-hacking/blob/main/images/decode.jpg)
 
-![Decode low](https://github.com/wildstray/meian-hacking/blob/main/images/decode_low.png)
+![Decode low](https://github.com/wildstray/meian-hacking/blob/main/images/decode_low.jpg)
 
-![Decode med](https://github.com/wildstray/meian-hacking/blob/main/images/decode_med.png)
+![Decode med](https://github.com/wildstray/meian-hacking/blob/main/images/decode_med.jpg)
 
 ...and here is the keys :wink:
 
-[szTable](https://github.com/wildstray/meian-hacking/blob/main/images/szTable.png)
+![szTable](https://github.com/wildstray/meian-hacking/blob/main/images/szTable.jpg)
